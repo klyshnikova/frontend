@@ -55,6 +55,20 @@ section{
 .btn:hover{
     background: #fe7a73;
 }
+.btn-hero{
+    width: 227px;
+    background: #FF6861;
+    border-radius: 100px;
+    color:#fff;
+    padding: 22px 70px;
+    text-decoration: none;
+    font-weight: 700;
+    display: block;
+    transition: all 0.5s ease;
+}
+.btn-hero:hover{
+    background: #fe7a73;
+}
 .container {
     width: 1100px;
     margin: 0 auto;
